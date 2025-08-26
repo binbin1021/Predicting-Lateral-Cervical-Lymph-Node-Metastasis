@@ -13,9 +13,6 @@
   <a href="https://github.com/yourusername/LCLNM-Segmentation">
     <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python">
   </a>
-  <a href="https://github.com/yourusername/LCLNM-Segmentation">
-    <img src="https://img.shields.io/github/stars/yourusername/LCLNM-Segmentation?style=social" alt="Stars">
-  </a>
 </div>
 
 ---
