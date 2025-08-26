@@ -44,11 +44,11 @@ Clone the repository and install dependencies:
 git clone https://github.com/binbin1021/Predicting-Lateral-Cervical-Lymph-Node-Metastasis.git
 cd ultralytics
 pip install -e '.[dev]'
-
----
+```
 
 ## 🏋️ Train
 To start training the model, run:
 
 ```bash
 python train.py
+```
