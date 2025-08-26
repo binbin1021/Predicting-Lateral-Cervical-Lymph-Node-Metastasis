@@ -46,6 +46,8 @@ cd ultralytics
 pip install -e '.[dev]'
 ```
 
+---
+
 ## 🏋️ Train
 To start training the model, run:
 
