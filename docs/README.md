@@ -41,6 +41,6 @@ The method achieves **spatially adaptive feature aggregation** while maintaining
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/LCLNM-Segmentation.git
-cd LCLNM-Segmentation
+git clone https://github.com/binbin1021/Predicting-Lateral-Cervical-Lymph-Node-Metastasis.git
+cd Predicting-Lateral-Cervical-Lymph-Node-Metastasis-main
 pip install -r requirements.txt
