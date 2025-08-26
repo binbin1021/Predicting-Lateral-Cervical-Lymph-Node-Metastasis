@@ -45,6 +45,8 @@ git clone https://github.com/binbin1021/Predicting-Lateral-Cervical-Lymph-Node-M
 cd ultralytics
 pip install -e '.[dev]'
 
+---
+
 ## 🏋️ Train
 To start training the model, run:
 
