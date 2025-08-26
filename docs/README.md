@@ -42,5 +42,5 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/binbin1021/Predicting-Lateral-Cervical-Lymph-Node-Metastasis.git
-cd Predicting-Lateral-Cervical-Lymph-Node-Metastasis-main
-pip install -r requirements.txt
+cd ultralytics
+pip install -e '.[dev]'
